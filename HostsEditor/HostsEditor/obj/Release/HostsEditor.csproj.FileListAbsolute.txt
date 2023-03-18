@@ -1,0 +1,11 @@
+C:\Users\user\source\demos\HostsEditor\HostsEditor\bin\Release\HostsEditor.exe.config
+C:\Users\user\source\demos\HostsEditor\HostsEditor\bin\Release\HostsEditor.exe
+C:\Users\user\source\demos\HostsEditor\HostsEditor\bin\Release\HostsEditor.pdb
+C:\Users\user\source\demos\HostsEditor\HostsEditor\obj\Release\HostsEditor.csproj.AssemblyReference.cache
+C:\Users\user\source\demos\HostsEditor\HostsEditor\obj\Release\HostsEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\demos\HostsEditor\HostsEditor\obj\Release\HostsEditor.MainForm.resources
+C:\Users\user\source\demos\HostsEditor\HostsEditor\obj\Release\HostsEditor.Properties.Resources.resources
+C:\Users\user\source\demos\HostsEditor\HostsEditor\obj\Release\HostsEditor.csproj.GenerateResource.cache
+C:\Users\user\source\demos\HostsEditor\HostsEditor\obj\Release\HostsEditor.csproj.CoreCompileInputs.cache
+C:\Users\user\source\demos\HostsEditor\HostsEditor\obj\Release\HostsEditor.exe
+C:\Users\user\source\demos\HostsEditor\HostsEditor\obj\Release\HostsEditor.pdb

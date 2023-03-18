@@ -1,0 +1,11 @@
+C:\Users\user\source\demos\HostsEditor\HostsEditor\bin\Debug\HostsEditor.exe.config
+C:\Users\user\source\demos\HostsEditor\HostsEditor\bin\Debug\HostsEditor.exe
+C:\Users\user\source\demos\HostsEditor\HostsEditor\bin\Debug\HostsEditor.pdb
+C:\Users\user\source\demos\HostsEditor\HostsEditor\obj\Debug\HostsEditor.csproj.AssemblyReference.cache
+C:\Users\user\source\demos\HostsEditor\HostsEditor\obj\Debug\HostsEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\demos\HostsEditor\HostsEditor\obj\Debug\HostsEditor.MainForm.resources
+C:\Users\user\source\demos\HostsEditor\HostsEditor\obj\Debug\HostsEditor.Properties.Resources.resources
+C:\Users\user\source\demos\HostsEditor\HostsEditor\obj\Debug\HostsEditor.csproj.GenerateResource.cache
+C:\Users\user\source\demos\HostsEditor\HostsEditor\obj\Debug\HostsEditor.csproj.CoreCompileInputs.cache
+C:\Users\user\source\demos\HostsEditor\HostsEditor\obj\Debug\HostsEditor.exe
+C:\Users\user\source\demos\HostsEditor\HostsEditor\obj\Debug\HostsEditor.pdb
