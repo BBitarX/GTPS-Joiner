@@ -9,3 +9,6 @@ Modifies hosts file to join a gtps, all you have to do is put in the server IP w
 4. Press Join/Add IP
 5. Log on to gt, u should be in the desired GTPS now.
 6. When you are done, press "Leave/Remove IP" to return to real gt
+
+
+![image](https://user-images.githubusercontent.com/68905755/226101161-1bad905f-1286-4024-923f-9e5dd9c3c7df.png)
