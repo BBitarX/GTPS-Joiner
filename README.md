@@ -12,4 +12,5 @@ Modifies hosts file to join a gtps, all you have to do is put in the server IP w
 
 
 ![image](https://user-images.githubusercontent.com/68905755/226101186-678a8c5b-3b4a-4d35-a276-5ab959c239ab.png)
+
 The User Interface (UI) isnt too smooth, its kinda ugly and I was lazy with it. If you could improve, I'd appreciate that.
